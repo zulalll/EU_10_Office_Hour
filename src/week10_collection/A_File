@@ -1,0 +1,18 @@
+-List we will use alot.(in automation)
+-Set a little,but almost no queue.
+-array:its size fixed.
+arrayList:its size can be changed.
+-everytime when we change arraylist elements,in backside a new array will be created.
+-How array is used in ArrayList ? IQ**
+
+-LinkedList:every element linked to each other
+-doubly=double =(elementin her iki tarafında bağlantı olduğu için)
+-synchronized=one thing working at one time
+-In window handling, set is being used only in here.
+
+-difference of collections:at least simple differences.
+-collection methods are important.
+
+-we need to use comma while typing enums.
+-Enum will not be changed by user.
+-

@@ -1,0 +1,20 @@
+-Why functional interface?
+There are some build in functional interfaces,methods,that we can use so it will help us to make our work easier.
+
+-Boiled code:means crowded codes.
+
+-We create normal interface and will put @FunctionalInterface annotation.
+
+-Lambda exp. are easy to use but not easy to read.
+
+-about FI we need to know build-in functions.
+
+-T means any kind of data type.
+
+-Lambda expression is like method body, it has no return type,return type is determined by which FI are you using.
+
+-'Bi-' suffix means double.
+
+- Predicate is returning boolean, consumer is like void, function is like return.
+
+-

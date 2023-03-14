@@ -1,0 +1,49 @@
+-If we do not have constructor, we can not create object.(do not forget default constructor)
+-As constructor same with class name, it starts with uppercase.
+-Initializing is giving first value.
+
+Office hours:Encapsulation
+-Putting all data in a capsule.(ex:capsulated pills from pharmacy)
+-Data hiding =data protection eg:for bank apps.if someone changes your bank account number, your money will disappear.
+-logic of encapsulation:you have a class and in that class you have private variables.Then to use these variables we use
+public getter and setter methods.We are accessing them undirectly.
+-getter is for reading, setter is for writing.
+
+-Is it possible to change getter and setter method names?
+yes, we can but it is not recommended.
+
+-The main aim of these methods is that providing pre-condition for our private data.
+-Encapsulation is a design pattern.Polymorphism is not but other three are design patterns.
+
+
+-Method overloading:
+same method name,return type do not matter,parameter is different.(different parameter=>data type or number of
+parameter or order of parameters.)
+
+-Method overriding:
+  -It must happen in sub-class.
+
+
+-Difference of method overloading-overriding so popular interview question.(IQ)
+
+-What kind of variables should we put as a final?(IQ) => Company name,ID,planet,social security number,birthday.
+
+-In bank system ==>account number, text number anything about your account can not be changeable.
+
+-Why final class can not be parent? We can not change anything in it.
+
+-What is difference between throws, throwable and throw?IQ
+Throwable - class name
+throws - handle exception
+throw  - create exception
+
+-
+
+
+
+
+
+
+
+
+
